@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**kanashimiofc/kanashimiofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou {Kanashimi}, um(a) {programador casual} apaixonado(a) por {artes e coisas de programação}. Adoro desenvolver soluções para problemas complexos e aprender coisas novas.
 
-Here are some ideas to get you started:
+💼 Trabalho atualmente como {desempregado}.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estou sempre aprendendo e atualmente estou estudando {programação}.
+
+🌱 Também sou um(a) entusiasta de {arte i.a}.
+
+💬 Você pode me perguntar sobre {qualquer coisa}.
+
+📫 Você pode entrar em contato comigo através do meu email {truesubarashilord@gmail.com}.
+
+😄 Meus pronomes são {ele/dele}
+
+⚡ Curiosidade: {eu uso I.A pra tudo}.
+
+
